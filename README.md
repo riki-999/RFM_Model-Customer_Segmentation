@@ -81,7 +81,7 @@ Continue breaking down clusters into smaller units to achieve a finer granularit
 >When there is no information about how many clusters exist in the dataset, the dendrogram can suggest potential clusters but cannot determine the exact number.
 
 
-## 🛠 Skills
+##  Skills
 Data Mining, Data Analysis, RFM Analysis, Hierarchical Clustering, Dendrogram, ML Algorithm..........
 
 
